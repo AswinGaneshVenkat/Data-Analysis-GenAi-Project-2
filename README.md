@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Data Analysis Chatbot
 
 A Streamlit-based chatbot application that helps users analyze and visualize their data using natural language queries.
